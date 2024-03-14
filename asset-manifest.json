@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/emnghiaproplayers/clone/static/css/main.f059c0ad.css",
-    "main.js": "/emnghiaproplayers/clone/static/js/main.9fea5c48.js",
-    "static/js/453.9b2d7452.chunk.js": "/emnghiaproplayers/clone/static/js/453.9b2d7452.chunk.js",
-    "static/media/safety.jpg": "/emnghiaproplayers/clone/static/media/safety.71a7537097219aa9e972.jpg",
-    "static/media/software.jpg": "/emnghiaproplayers/clone/static/media/software.f04dcaf45f4824cb9a1d.jpg",
-    "static/media/design.jpg": "/emnghiaproplayers/clone/static/media/design.89e7ff0243134375c4c9.jpg",
-    "static/media/healthy.jpg": "/emnghiaproplayers/clone/static/media/healthy.489e581ba57f1c37bd11.jpg",
-    "static/media/photo.jpg": "/emnghiaproplayers/clone/static/media/photo.4335a4f6c47eedb99914.jpg",
-    "static/media/marketing.jpg": "/emnghiaproplayers/clone/static/media/marketing.b717949492b4f7298635.jpg",
-    "static/media/test.jpg": "/emnghiaproplayers/clone/static/media/test.bed93833226c2176bae8.jpg",
-    "static/media/ubuntu.png": "/emnghiaproplayers/clone/static/media/ubuntu.b4f3c467a4cdeb9c424a.png",
-    "static/media/c.jpg": "/emnghiaproplayers/clone/static/media/c.26f212ffc365b7ab077f.jpg",
-    "static/media/svgexport-1.svg": "/emnghiaproplayers/clone/static/media/svgexport-1.5f471c494c7483886b9c1bfb8c0138db.svg",
-    "index.html": "/emnghiaproplayers/clone/index.html",
-    "main.f059c0ad.css.map": "/emnghiaproplayers/clone/static/css/main.f059c0ad.css.map",
-    "main.9fea5c48.js.map": "/emnghiaproplayers/clone/static/js/main.9fea5c48.js.map",
-    "453.9b2d7452.chunk.js.map": "/emnghiaproplayers/clone/static/js/453.9b2d7452.chunk.js.map"
+    "main.css": "/clone/static/css/main.f059c0ad.css",
+    "main.js": "/clone/static/js/main.f067831e.js",
+    "static/js/453.9b2d7452.chunk.js": "/clone/static/js/453.9b2d7452.chunk.js",
+    "static/media/safety.jpg": "/clone/static/media/safety.71a7537097219aa9e972.jpg",
+    "static/media/software.jpg": "/clone/static/media/software.f04dcaf45f4824cb9a1d.jpg",
+    "static/media/design.jpg": "/clone/static/media/design.89e7ff0243134375c4c9.jpg",
+    "static/media/healthy.jpg": "/clone/static/media/healthy.489e581ba57f1c37bd11.jpg",
+    "static/media/photo.jpg": "/clone/static/media/photo.4335a4f6c47eedb99914.jpg",
+    "static/media/marketing.jpg": "/clone/static/media/marketing.b717949492b4f7298635.jpg",
+    "static/media/test.jpg": "/clone/static/media/test.bed93833226c2176bae8.jpg",
+    "static/media/ubuntu.png": "/clone/static/media/ubuntu.b4f3c467a4cdeb9c424a.png",
+    "static/media/c.jpg": "/clone/static/media/c.26f212ffc365b7ab077f.jpg",
+    "static/media/svgexport-1.svg": "/clone/static/media/svgexport-1.5f471c494c7483886b9c1bfb8c0138db.svg",
+    "index.html": "/clone/index.html",
+    "main.f059c0ad.css.map": "/clone/static/css/main.f059c0ad.css.map",
+    "main.f067831e.js.map": "/clone/static/js/main.f067831e.js.map",
+    "453.9b2d7452.chunk.js.map": "/clone/static/js/453.9b2d7452.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f059c0ad.css",
-    "static/js/main.9fea5c48.js"
+    "static/js/main.f067831e.js"
   ]
 }
